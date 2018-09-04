@@ -1,6 +1,4 @@
-bloom
 stella
-tecna
+bloom
 flora
-aisha
-musa 
+tecna
