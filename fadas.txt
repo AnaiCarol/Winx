@@ -2,3 +2,4 @@ stella
 bloom
 flora
 tecna
+lindas
